@@ -21,11 +21,16 @@
 | AI-M1-B | 深度阅读者 | ChatGPT（GPT-6） | [M1-B-deep-reader.md](M1-B-deep-reader.md) |
 | AI-M1-C | 播客爱好者 | ChatGPT（GPT-6） | [M1-C-podcast-listener.md](M1-C-podcast-listener.md) |
 | AI-M1-D | 知识工作者 | ChatGPT（GPT-6） | [M1-D-knowledge-worker.md](M1-D-knowledge-worker.md) |
+| AI-M3-A | 普通大学生 | Gemini 4 Argon | [M3-A-ordinary-student.md](M3-A-ordinary-student.md) |
+| AI-M3-B | 深度阅读者 | Gemini 4 Argon | [M3-B-deep-reader.md](M3-B-deep-reader.md) |
+| AI-M3-C | 播客爱好者 | Gemini 4 Argon | [M3-C-podcast-listener.md](M3-C-podcast-listener.md) |
+| AI-M3-D | 知识工作者 | Gemini 4 Argon | [M3-D-knowledge-worker.md](M3-D-knowledge-worker.md) |
 | AI-M4-A | 普通大学生 | deepseek-flash | [M4-A-ordinary-student.md](M4-A-ordinary-student.md) |
 | AI-M4-B | 深度阅读者 | deepseek-flash | [M4-B-deep-reader.md](M4-B-deep-reader.md) |
 | AI-M4-C | 播客爱好者 | deepseek-flash | [M4-C-podcast-listener.md](M4-C-podcast-listener.md) |
 | AI-M4-D | 知识工作者 | deepseek-flash | [M4-D-knowledge-worker.md](M4-D-knowledge-worker.md) |
 
+成员 3 的四次模拟总结见 [M3-summary.md](M3-summary.md)。
 成员 4 的四次模拟总结见 [M4-summary.md](M4-summary.md)。
 
 ## 每份记录注明
