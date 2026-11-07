@@ -13,6 +13,17 @@
 
 四位组员都应完成 A、B、C、D 四种画像，目标共 16 份模拟记录。
 
+## 已归档记录
+
+| 记录编号 | 画像 | AI / 模型 | 文件 |
+| --- | --- | --- | --- |
+| AI-M4-A | 普通大学生 | deepseek-flash | [M4-A-ordinary-student.md](M4-A-ordinary-student.md) |
+| AI-M4-B | 深度阅读者 | deepseek-flash | [M4-B-deep-reader.md](M4-B-deep-reader.md) |
+| AI-M4-C | 播客爱好者 | deepseek-flash | [M4-C-podcast-listener.md](M4-C-podcast-listener.md) |
+| AI-M4-D | 知识工作者 | deepseek-flash | [M4-D-knowledge-worker.md](M4-D-knowledge-worker.md) |
+
+成员 4 的四次模拟总结见 [M4-summary.md](M4-summary.md)。
+
 ## 每份记录注明
 
 - 执行成员；
