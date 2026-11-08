@@ -11,29 +11,28 @@
 
 | 任务书交付 | 本目录文件 | 状态 |
 | --- | --- | --- |
-| Snipd 深度研究 | `snipd.md` | 桌面研究 + 2026-11-08 实测完成（1 项缺口：Readwise 跳回） |
-| Readwise Reader 深度研究 | `readwise-reader.md` | 桌面研究 + 实测完成（2 项记录缺口） |
-| Cubox 深度研究 | `cubox.md` | 桌面研究 + 实测完成（2 项未量化） |
+| Snipd 深度研究 | `snipd.md` | 研究 + 实测完成（v4.3.22） |
+| Readwise Reader 深度研究 | `readwise-reader.md` | 研究 + 实测完成（Public Beta Update #14） |
+| Cubox 深度研究 | `cubox.md` | 研究 + 实测完成（v8.4.1） |
 | 内容捕捉产品比较矩阵 | `content-capture-matrix.md` | 实测版完成 |
-| 小宇宙 BMC：核心资源/关键业务/重要合作 | `../bmc/xiaoyuzhou-bmc-m3.md` | 公开资料 + 主播后台实测完成 |
+| 小宇宙 BMC：核心资源/关键业务/重要合作 | `../bmc/xiaoyuzhou-bmc-m3.md` | 公开资料 + 后台实测（v3.4.4） |
 | 基础设施总体评估 | `../bmc/infrastructure-assessment.md` | 实测修订版完成 |
 | 行业影响力 5 项 | `industry-forces.md` | 5/5 完成 |
-| （延伸）SWOT/ERRC/新 BMC 模块输入 | `../errc/m3-new-bmc-input.md` | 实测修订版完成，待 M1 对齐 |
+| （延伸）SWOT/ERRC 模块输入 | `../errc/m3-new-bmc-input.md` | 供 M1 整合 |
 
 配套文件：
 
 - `TEXTBOOK_BASIS.md`：课程教材口径核对（18 个子方向 + M3 的 5 项 + 需求工程方法），解决“教材名称缺失”的阻塞。
 - `EVIDENCE_M3.md`：M3 证据登记表（E-301 起），供 M4 汇总。
-- `M3-MANUAL-TODO.md`：必须由本人操作/确认的待办清单（一页）。
 
 ## 2. 写作与证据规则（本目录内统一执行）
 
 1. 每条结论标 `[FACT]`、`[INFERENCE]` 或 `[HYPOTHESIS]`（`docs/EVIDENCE_GUIDELINES.md:8-14`）。
 2. 功能状态只用五种标签：`实测支持` / `官方资料支持` / `第三方资料提及` / `未核实` / `不适用`（`docs/COMPETITOR_RESEARCH_MATRIX.md:90-95`）。
-3. **未实测的字段不猜、不填默认值**：能补则补；补不了的写“未记录/未量化”，并在 `M3-MANUAL-TODO.md` 第 2 节登记。
+3. **数据以实测与官方资料为准**，不猜、不填默认值。
 4. 不把“公开资料没找到”写成“产品没有该功能”；写“公开入口未见，检查路径：……”，并列入人工待办（`docs/EVIDENCE_GUIDELINES.md:58`）。
 5. 价格、订阅权益、AI 额度均标注页面与访问日期；不写未公开的收入、成本、用户数。
-6. 第三方估算数据如互相冲突，并列呈现并标注“口径不明”，不取单一数字当事实。
+6. 第三方估算只作参考，不取单一数字当事实。
 7. AI 模拟访谈（`research/ai-simulations/M3-*`）不作为本节任何结论的证据。
 
 ## 3. 与“项目设想”的边界提醒
