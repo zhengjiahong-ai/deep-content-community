@@ -25,7 +25,7 @@
 | 真实访谈 | [U01](../user-interviews/U01-interview.md)—[U08](../user-interviews/U08-interview.md)，共 8 份 | 描述受访者自述的最近一次经历、行为、替代方案、异议 | 推断全体大学生或播客用户的比例 |
 | AI 模拟 | [AI 模拟目录](../ai-simulations/README.md)，M1—M4 每人 4 份，共 16 份记录文件 | 提炼潜在反对意见、改进问题、比较不同虚构画像的答案 | 充当 16 位真实受访者或证明产品有需求 |
 | AI 汇总 | [M2](../ai-simulations/M2-summary.md)、[M3](../ai-simulations/M3-summary.md)、[M4](../ai-simulations/M4-summary.md) | 审查模拟局限、生成后续验证任务 | 当作独立问卷、真实市场数据 |
-| 真实访谈汇总 | [M3 摘要](../user-interviews/M3-interview-summary.md) | 补充 U05/U06 的证据结构和反例 | 作为两名新增受访者计数 |
+| 真实访谈汇总 | M3 访谈摘要（原文件已删除，现以 [U05](../user-interviews/U05-interview.md)、[U06](../user-interviews/U06-interview.md) 原始记录为准） | 补充 U05/U06 的证据结构和反例 | 作为两名新增受访者计数 |
 | 正式竞品实测 | 目前仓库未见“小宇宙 + 各辅助竞品”的完整统一体验报告 | 后续需要补齐实际使用路径的核查 | 把 AI 对竞品的叙述当作实测结论 |
 
 “记录文件存在”与“每一次访谈都完整执行、元数据无误”不是同一回事，详见第六节质量检查。
