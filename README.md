@@ -69,7 +69,12 @@
 - docs/COURSE_DELIVERABLES.md：课程要求与验收清单
 - docs/TEAM_ROLES.md：团队分工
 - docs/EVIDENCE_GUIDELINES.md：研究证据与引用规范
+- docs/EVIDENCE_REGISTRY.md：全组证据登记表（正文脚注的上游，按成员号段登记）
 - docs/DECISION_LOG.md：项目决策记录
+- docs/REVIEW_STATUS.md：第二阶段交付与审阅状态台账
+- research/competitors/：七份产品研究卡（5 份深度研究 + 2 份补充扫描）与跨产品比较（M3：Snipd、Readwise Reader、Cubox；M4：flomo、豆瓣、Obsidian、即刻）
+- research/bmc/：小宇宙 BMC 模块与基础设施评估
+- research/errc/：给 M1 的蓝海战略模块输入
 
 ## 7. 协作原则
 
