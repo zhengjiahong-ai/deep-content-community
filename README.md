@@ -73,7 +73,7 @@
 - docs/DECISION_LOG.md：项目决策记录
 - docs/REVIEW_STATUS.md：第二阶段交付与审阅状态台账
 - research/competitors/：七份产品研究卡（5 份深度研究 + 2 份补充扫描）与跨产品比较（M3：Snipd、Readwise Reader、Cubox；M4：flomo、豆瓣、Obsidian、即刻）
-- research/bmc/：小宇宙 BMC 模块与基础设施评估
+- research/bmc/：小宇宙 BMC 模块（核心资源/关键业务/重要合作、收入来源/成本结构）、基础设施评估、收入与支出评估
 - research/errc/：给 M1 的蓝海战略模块输入
 
 ## 7. 协作原则
