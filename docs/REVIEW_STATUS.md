@@ -4,12 +4,13 @@
 
 | 成员 | 负责范围 | 当前状态 | 入口 | 后续依赖 |
 |---|---|---|---|---|
-| M1 | 用户研究、价值主张、宏观经济4项、SWOT/ERRC/新BMC | M1整合稿已提交审阅；社区定位已校准，见PR后续提交 | research/m1/ | 团队审阅；宏观四项教材原页待核 |
+| M1 | 用户研究、价值主张、宏观经济4项、SWOT/ERRC/新BMC | 已提交M1研究整合、价值主张BMC、宏观四项与ERRC/新BMC；待团队审阅 | research/m1/；research/bmc/xiaoyuzhou-bmc-m1.md | 宏观四项教材原页待核；待与M2/M3/M4模块整合 |
 | M2 | 小宇宙/微信读书/喜马拉雅、客户侧BMC、用户界面、市场5项 | PR #3已合并，交付已整合 | content-platform-matrix.md；research/bmc/ | 动态价格/权益终稿前复核 |
 | M3 | Snipd/Reader/Cubox、资源/业务/合作、基础设施、行业5项 | PR #1已合并，7/7交付有条件接收 | content-capture-matrix.md；research/bmc/ | 关键结论遵守M3审计A-01—A-11 |
 | M4 | flomo/豆瓣/Obsidian/即刻、收入成本、趋势4项、证据表 | 四产品研究及E-401—E-463已入库；小宇宙收入/成本和关键趋势原始来源仍有缺口 | personal-knowledge-vs-community.md；EVIDENCE_REGISTRY.md | 补小宇宙收入/成本模块、趋势来源和实测附件 |
 
 ## M1新增文件与本轮校准
+- research/bmc/xiaoyuzhou-bmc-m1.md
 - research/m1/M1_RESEARCH_INTEGRATION_2026-11-12.md
 - research/m1/M1_MACRO_ENVIRONMENT_2026-11-12.md
 - research/m1/M1_ERRC_NEW_BMC_2026-11-12.md
