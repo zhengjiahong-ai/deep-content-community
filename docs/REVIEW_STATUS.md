@@ -6,9 +6,9 @@
 | 成员 | 负责范围 | 当前状态 | 主要入口 | 后续依赖 |
 |---|---|---|---|---|
 | M1 | 用户研究、价值主张、宏观经济4项、SWOT/ERRC/新BMC整合 | 阶段研究整合已提交；宏观4项及新BMC为工作稿 | research/m1/；research/bmc/ | 团队复核九模块BMC、总体评估、ERRC和新BMC；核对U07元数据 |
-| M2 | 小宇宙/微信读书/喜马拉雅、客户侧BMC、界面评估、市场5项 | PR #3已合并；相关材料已进入main | research/competitors/content-platform-matrix.md；research/bmc/ | 终稿前复核动态价格、会员权益和市场来源；补齐矩阵M2列 |
+| M2 | 小宇宙/微信读书/喜马拉雅、客户侧BMC、界面评估、市场5项 | PR #3已合并；相关材料已进入main | research/competitors/content-platform-matrix.md；research/bmc/ | 终稿前复核动态价格、会员权益和市场来源 |
 | M3 | Snipd/Reader/Cubox、资源/业务/合作、基础设施、行业5项 | PR #1已合并；7/7交付有条件接收 | research/competitors/；research/bmc/；research/errc/ | M4交叉复核已完成；终稿按A-01—A-11保留样本和推断边界 |
-| M4 | flomo/豆瓣/Obsidian/即刻、收入/成本、财务评估、趋势4项、证据表 | 四款产品研究及E-401—E-463已进入main；收入/成本、总体评估和关键趋势模块已提交main | research/competitors/；research/bmc/xiaoyuzhou-revenue-cost-m4.md；research/bmc/revenue-cost-assessment-m4.md；research/trends/key-trends-m4.md | M4复核小宇宙分成/渠道现行规则；M3交叉审阅已完成，保留UNKNOWN；补交关键实测附件 |
+| M4 | flomo/豆瓣/Obsidian/即刻、收入/成本、财务评估、趋势4项、证据表 | 四款产品研究及E-401—E-463已进入main；收入/成本、总体评估和关键趋势模块已提交main | research/competitors/；research/bmc/xiaoyuzhou-revenue-cost-m4.md；research/bmc/revenue-cost-assessment-m4.md；research/trends/key-trends-m4.md | M4复核小宇宙分成/渠道现行规则；M3交叉审阅待完成，保留UNKNOWN；补交关键实测附件 |
 
 ## M1阶段研究收束
 - P0：个人观点沉淀，作为优先验证任务。
