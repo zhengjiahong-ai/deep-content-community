@@ -74,6 +74,7 @@
 - docs/REVIEW_STATUS.md：第二阶段交付与审阅状态
 - research/m1/：M1用户研究整合、宏观经济环境、ERRC与新BMC草案
 - docs/REVIEW_STATUS.md：第二阶段交付与审阅状态台账
+- research/bmc/xiaoyuzhou-bmc-m1.md：小宇宙价值主张与M1负责的SWOT画布标注
 - research/competitors/：七份产品研究卡（5 份深度研究 + 2 份补充扫描）与跨产品比较（M3：Snipd、Readwise Reader、Cubox；M4：flomo、豆瓣、Obsidian、即刻）
 - research/bmc/：小宇宙 BMC 模块与基础设施评估
 - research/errc/：给 M1 的蓝海战略模块输入
