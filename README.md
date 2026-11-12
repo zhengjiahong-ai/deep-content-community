@@ -70,11 +70,13 @@
 - docs/TEAM_ROLES.md：团队分工
 - docs/EVIDENCE_GUIDELINES.md：研究证据与引用规范
 - docs/EVIDENCE_REGISTRY.md：全组证据登记表（正文脚注的上游，按成员号段登记）
+- docs/EXTERNAL_ENVIRONMENT.md：外部环境 18 个子方向的教材核对表（全组共用）
 - docs/DECISION_LOG.md：项目决策记录
 - docs/REVIEW_STATUS.md：第二阶段交付与审阅状态台账
 - research/competitors/：七份产品研究卡（5 份深度研究 + 2 份补充扫描）与跨产品比较（M3：Snipd、Readwise Reader、Cubox；M4：flomo、豆瓣、Obsidian、即刻）
 - research/bmc/：小宇宙 BMC 模块（核心资源/关键业务/重要合作、收入来源/成本结构）、基础设施评估、收入与支出评估
 - research/errc/：给 M1 的蓝海战略模块输入
+- research/trends/：外部环境的关键趋势 4 项（M4）
 
 ## 7. 协作原则
 
