@@ -60,7 +60,7 @@ flomo、Obsidian。
 
 ## 4. 小宇宙完整商业模式画布
 
-先呈现完整九模块画布，再逐项解释。价值主张模块由M1负责，见[小宇宙 BMC：价值主张（M1）](../research/bmc/xiaoyuzhou-bmc-m1.md)；客户界面见M2，基础设施见M3；收入与成本待M4补齐后统一整合。
+完整九模块画布见[小宇宙完整BMC整合稿](../research/bmc/xiaoyuzhou-bmc-complete.md)。价值主张模块由M1负责；客户界面见M2；基础设施见M3；收入与成本见[M1财务补充评估](../research/bmc/xiaoyuzhou-bmc-financial-assessment.md)，分成和渠道费率仍待M4核验。
 
 ### 4.1 客户细分
 ### 4.2 价值主张
@@ -93,7 +93,7 @@ flomo、Obsidian。
 正向和负向因素，覆盖核心资源、关键业务、重要合作。
 
 ### 5.4 收入与支出
-正向和负向因素，覆盖收入来源和成本结构。明确公开事实和推断。
+正向和负向因素，覆盖收入来源和成本结构。整合稿见[四部分总体评估](../research/bmc/overall-assessment.md)，财务机制见[M1财务补充评估](../research/bmc/xiaoyuzhou-bmc-financial-assessment.md)。
 
 ## 6. 商业模式外部环境
 
@@ -101,7 +101,9 @@ flomo、Obsidian。
 
 ### 6.1 市场影响力：5 项（M2）
 ### 6.2 行业影响力：5 项（M3）
-### 6.3 关键趋势：4 项（M4）
+### 6.3 关键趋势：4 项（M4，M1补充稿）
+
+见[M1关键趋势四项分析](../research/m1/M1_KEY_TRENDS_2026-11-12.md)。
 ### 6.4 宏观经济影响：4 项（M1）
 
 每项包含：教材问题、相关事实、对小宇宙商业模式的影响、机会/威胁判断、来源和局限。弱相关项说明理由后简化。
