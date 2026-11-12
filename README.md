@@ -7,11 +7,11 @@
 
 ## 1. 项目简介
 
-本项目探索深度内容消费后的观点保存、个人思考沉淀、观点关联与分享交流。内容来源包括播客、书籍和文章。
+本项目选题为**深度内容思考与共鸣社区**。根据四人阶段研究，当前价值优先级为：P0个人观点沉淀；P1轻量主题讨论（候选差异化）；P2完整社区生态暂缓。观点卡可承载个人记录，并为后续讨论提供上下文。
 
 核心命题（待验证）：
 
-> 帮助用户把在播客、书籍和文章中遇到的有价值片段及其上下文，转化为可保存、可表达、可关联、可交流、可回看的个人思想资产。
+> 帮助用户轻量保存深度内容中的有价值片段、出处和自己的理解，并在此基础上探索轻量主题讨论是否能带来额外价值。
 
 ## 2. 已确认的课程研究决策
 
@@ -21,7 +21,7 @@
 - 竞品研究方式：从单一产品扩展为竞品生态图谱；
 - SWOT 深入方向：价值主张；
 - 蓝海战略方向：价值主张；
-- 新价值初步方向：内容保存与个人沉淀为基础，分享与小范围交流为延伸。
+- 新价值阶段方向：个人观点沉淀优先；轻量主题讨论作为候选差异化；完整社区生态留待后续行为验证。
 
 ## 3. 竞品生态
 
@@ -70,13 +70,18 @@
 - docs/TEAM_ROLES.md：团队分工
 - docs/EVIDENCE_GUIDELINES.md：研究证据与引用规范
 - docs/EVIDENCE_REGISTRY.md：全组证据登记表（正文脚注的上游，按成员号段登记）
-- docs/EXTERNAL_ENVIRONMENT.md：外部环境 18 个子方向的教材核对表（全组共用）
 - docs/DECISION_LOG.md：项目决策记录
-- docs/REVIEW_STATUS.md：第二阶段交付与审阅状态台账
+- docs/REVIEW_STATUS.md：第二阶段交付与审阅状态
+- research/m1/：M1用户研究整合、阶段研究收束、宏观经济环境、ERRC与新BMC草案
+- research/bmc/xiaoyuzhou-bmc-m1.md：小宇宙价值主张与M1负责的SWOT画布标注
+- research/bmc/xiaoyuzhou-bmc-financial-assessment.md：小宇宙收入来源与成本结构评估
+- research/bmc/xiaoyuzhou-bmc-complete.md：小宇宙九模块BMC整合稿
+- research/bmc/overall-assessment.md：小宇宙四部分总体评估
+- research/m1/M1_KEY_TRENDS_2026-11-12.md：商业模式关键趋势四项分析
+- research/audits/M4_PHASE2_AUDIT_2026-11-12.md：M4阶段交付审计
 - research/competitors/：七份产品研究卡（5 份深度研究 + 2 份补充扫描）与跨产品比较（M3：Snipd、Readwise Reader、Cubox；M4：flomo、豆瓣、Obsidian、即刻）
-- research/bmc/：小宇宙 BMC 模块（核心资源/关键业务/重要合作、收入来源/成本结构）、基础设施评估、收入与支出评估
+- research/bmc/：小宇宙 BMC 模块与基础设施评估
 - research/errc/：给 M1 的蓝海战略模块输入
-- research/trends/：外部环境的关键趋势 4 项（M4）
 
 ## 7. 协作原则
 
