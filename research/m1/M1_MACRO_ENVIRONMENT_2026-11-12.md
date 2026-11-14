@@ -88,7 +88,7 @@
 2. 国家统计局，《2025年国民经济和社会发展统计公报》，2026-02-28：https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html
 3. 国家统计局，《2025年全国文化及相关产业发展情况报告》，2026-06-29：https://www.stats.gov.cn/sj/zxfbhjd/202606/t20260629_1964025.html
 4. 工信部，《2025年通信业统计公报》，2026-01-28：https://www.miit.gov.cn/jgsj/yxj/xxfb/art/2026/art_bea806f4dd20457cb0158795cc210aa7.html
-5. 国家统计局，《中华人民共和国2025年国民经济和社会发展统计公报》，2026-02-28：https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html（社融增量及年末存量增速官方来源）。
+5. 国家统计局，《中华人民共和国2025年国民经济和社会发展统计公报》，2026-02-28：https://www.stats.gov.cn/english/PressRelease/202602/t20260228_1962661.html（社融增量及年末存量增速官方来源）。
 6. 国务院新闻办公室，2026-02-05金融政策发布会：https://english.scio.gov.cn/pressroom/2026-02/05/content_118319132_11.html
 7. IMF, China 2025 Article IV Consultation, 2026：https://www.elibrary.imf.org/view/journals/002/2026/044/article-A001-en.xml
 
