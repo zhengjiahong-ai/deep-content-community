@@ -1,0 +1,56 @@
+name: Build final course report PDF
+
+on:
+  push:
+    branches:
+      - docs/m1-final-report-draft-2026-11-14
+    paths:
+      - 'reports/FINAL_REPORT_DRAFT.md'
+      - 'reports/figures/**'
+      - '.github/workflows/build-final-report-pdf.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout report source
+        uses: actions/checkout@v4
+        with:
+          ref: docs/m1-final-report-draft-2026-11-14
+
+      - name: Install PDF toolchain and Chinese fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk librsvg2-bin
+
+      - name: Build PDF
+        run: |
+          mkdir -p dist
+          pandoc reports/FINAL_REPORT_DRAFT.md \
+            --from=gfm \
+            --pdf-engine=xelatex \
+            --resource-path=.:reports \
+            --variable=mainfont:"Noto Sans CJK SC" \
+            --variable=CJKmainfont:"Noto Sans CJK SC" \
+            --variable=geometry:margin=22mm \
+            --variable=fontsize:10.5pt \
+            --variable=linestretch:1.35 \
+            --variable=colorlinks:true \
+            --toc \
+            --toc-depth=2 \
+            --number-sections \
+            --highlight-style=tango \
+            --output=dist/深度内容思考与共鸣社区_竞品选择与商业模式评估报告.pdf
+          pdfinfo 'dist/深度内容思考与共鸣社区_竞品选择与商业模式评估报告.pdf'
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: final-course-report-pdf
+          path: dist/*.pdf
+          if-no-files-found: error
+          retention-days: 14
