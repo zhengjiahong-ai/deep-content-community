@@ -37,13 +37,14 @@ jobs:
         run: |
           mkdir -p dist
           pandoc reports/FINAL_REPORT_DRAFT.md \
-            --from=gfm+raw_tex+link_attributes \
+            --from=markdown \
             --metadata=lang:zh-CN \
             --pdf-engine=xelatex \
             --resource-path=.:reports \
             --variable=mainfont:"Noto Sans CJK SC" \
             --variable=CJKmainfont:"Noto Sans CJK SC" \
-            --variable=papersize:a4\n            --variable=geometry:a4paper,margin=22mm \
+            --variable=papersize:a4 \
+            --variable=geometry:margin=22mm \
             --variable=fontsize:11pt \
             --variable=linestretch:1.35 \
             --variable=colorlinks:true \
