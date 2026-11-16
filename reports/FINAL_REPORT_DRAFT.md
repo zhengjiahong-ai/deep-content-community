@@ -153,7 +153,7 @@
 
 依据业务活动，可识别的成本驱动因素包括音频托管、存储、带宽和 CDN；产品研发、搜索和推荐系统；内容审核、版权与合规；支付渠道费用；创作者结算；品牌商务、市场推广、客服和线下活动。这些属于从业务流程推导的成本类别，不是平台披露的实际支出。
 
-RSS接入与原生托管并存，不能据此断言平台没有内容成本或整体成本低。Apple公开规则包含标准佣金和小企业计划费率，但小宇宙适用哪一档、不同渠道订单占比和实际结算金额没有公开资料支持；因此本报告不估算渠道净收入差。[29]
+RSS接入与原生托管并存，不能据此断言平台没有内容成本或整体成本低。中国大陆区 Apple 开发者协议自2026年3月15日起规定标准佣金为25%，符合小企业计划等规定条件时为12%；小宇宙是否符合优惠条件、不同渠道订单占比和实际结算金额没有公开资料支持，因此本报告不估算渠道净收入差。[29,41]
 
 ### 3.10 九个模块之间的价值流动
 
@@ -465,3 +465,5 @@ IMF在2026年10月《世界经济展望》表1.1（按购买力平价权重）�
 38. 中国互联网络信息中心（CNNIC），《第57次中国互联网络发展状况统计报告》发布说明，2026-02-05（统计截至2025年12月）：https://www.cnnic.ac.cn/n4/2026/0304/c88-11549.html
 
 39. Apple, “Apple Podcasts” 官方产品说明（目录、设备预装、发现与创作者服务）：https://www.apple.com/apple-podcasts/
+
+41. Apple, “Apple Developer Program License Agreement”，Attachment 13: Additional Terms for iOS and iPadOS Apps in China mainland（2026-03-15起生效）：https://developer.apple.com/cn/support/terms/apple-developer-program-license-agreement/
