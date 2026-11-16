@@ -454,16 +454,13 @@ IMF在2026年10月《世界经济展望》表1.1（按购买力平价权重）�
 29. 团队《小宇宙完整商业模式画布》及九模块来源稿，见仓库 research/bmc/；团队研究归纳，不是平台内部披露。
 30. M1，《第一阶段需求探索综合发现》，2026-11-08，见仓库 research/phase1/PHASE1_FINDINGS_2026-11-08.md。
 31. 南京大学《需求工程与产品设计》课程平时作业《竞品选择与评估（2026.11）》原始PDF，课程资料附件（项目资料库）。
-40. M4，《商业模式外部环境18项课件核对记录》，2026-11-12，见仓库 `docs/EXTERNAL_ENVIRONMENT.md`（E-470）。该文件记录M4对课程课件第16页的核对结果；本轮未取得原始PPTX，故作为团队核对记录引用，不冒充原始课件。
 32. M3，《行业影响力五项分析（小宇宙）》，2026-11-08，见仓库 research/competitors/industry-forces.md。
 33. IMF, World Economic Outlook, October 2026, “Resilience Under Strain, Urgent Choices”：https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026
 34. M1，《最终产品定位决策：个人观点库与内容锚定讨论空间》，2026-11-16，见仓库 docs/FINAL_PRODUCT_DECISION.md。
 35. 中国互联网络信息中心（CNNIC），《第56次中国互联网络发展状况统计报告》，2025-07-21（统计截至2025年6月），PDF：https://www.cnnic.net/NMediaFile/2025/0730/MAIN1753846666507QEK67ZS9DH.pdf
 36. 中国网络视听节目服务协会，《第56次中国互联网络发展状况统计报告发布，网络视听行业持续繁荣稳中有进》，2025-08-18（转述长视频用户规模占网民整体62.4%）：https://www.cnsa.cn/art/2025/8/18/art_1955_47428.html
 37. 新京报贝壳财经，《十亿流量激励，B站切入视频播客市场》，2025-07-08：https://finance.sina.com.cn/jjxw/2025-07-08/doc-infetuqp5310571.shtml
-
 38. 中国互联网络信息中心（CNNIC），《第57次中国互联网络发展状况统计报告》发布说明，2026-02-05（统计截至2025年12月）：https://www.cnnic.ac.cn/n4/2026/0304/c88-11549.html
-
 39. Apple, “Apple Podcasts” 官方产品说明（目录、设备预装、发现与创作者服务）：https://www.apple.com/apple-podcasts/
-
+40. M4，《商业模式外部环境18项课件核对记录》，2026-11-12，见仓库 `docs/EXTERNAL_ENVIRONMENT.md`（E-470）。该文件记录M4对课程课件第16页的核对结果；本轮未取得原始PPTX，故作为团队核对记录引用，不冒充原始课件。
 41. Apple, “Apple Developer Program License Agreement”，Attachment 13: Additional Terms for iOS and iPadOS Apps in China mainland（2026-03-15起生效）：https://developer.apple.com/cn/support/terms/apple-developer-program-license-agreement/
