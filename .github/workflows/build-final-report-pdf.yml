@@ -25,7 +25,13 @@ jobs:
       - name: Install PDF toolchain and Chinese fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra fonts-noto-cjk librsvg2-bin
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-chinese fonts-noto-cjk librsvg2-bin
+
+      - name: Verify Chinese typesetting dependencies
+        run: |
+          kpsewhich xeCJK.sty
+          fc-match 'Noto Sans CJK SC'
+          rsvg-convert --version
 
       - name: Build PDF
         run: |
