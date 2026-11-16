@@ -25,7 +25,7 @@ jobs:
       - name: Install PDF toolchain and Chinese fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-chinese fonts-noto-cjk librsvg2-bin
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-chinese fonts-noto-cjk librsvg2-bin poppler-utils
 
       - name: Verify Chinese typesetting dependencies
         run: |
@@ -43,7 +43,7 @@ jobs:
             --variable=mainfont:"Noto Sans CJK SC" \
             --variable=CJKmainfont:"Noto Sans CJK SC" \
             --variable=geometry:margin=22mm \
-            --variable=fontsize:10.5pt \
+            --variable=fontsize:11pt \
             --variable=linestretch:1.35 \
             --variable=colorlinks:true \
             --toc \
@@ -51,7 +51,16 @@ jobs:
             --number-sections \
             --highlight-style=tango \
             --output=dist/深度内容思考与共鸣社区_竞品选择与商业模式评估报告.pdf
-          pdfinfo 'dist/深度内容思考与共鸣社区_竞品选择与商业模式评估报告.pdf'
+          PDF='dist/深度内容思考与共鸣社区_竞品选择与商业模式评估报告.pdf'
+          test -s "$PDF"
+          pdfinfo "$PDF"
+          pdftotext -layout "$PDF" dist/report-extracted.txt
+          test -s dist/report-extracted.txt
+          mkdir -p dist/preview
+          PAGES=$(pdfinfo "$PDF" | awk '/^Pages:/ {print $2}')
+          echo "PDF pages: $PAGES"
+          pdftoppm -f 1 -l 3 -png -r 110 "$PDF" dist/preview/page >/dev/null 2>&1
+          ls -lh "$PDF" dist/preview/
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
