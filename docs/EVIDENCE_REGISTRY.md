@@ -101,7 +101,7 @@
 | E-466 | 小宇宙 2026-03 上线营销 IP「引力计划」；CPB 案例含 4 档播客定制内容 + 5 档播客口播联动 | FACT | SocialBeta 案例页 | https://socialbeta.com/campaign/27094 | 2026-03-05 | 2026-11-11 | 品牌营销案例 | 行业媒体报道，非小宇宙官方披露；报价未公开 | BMC 收入 R$-4 |
 | E-467 | 引力计划定位："品牌、创作者与用户三方共建的播客商业内容生态"，属"平台商业化内容 IP 体系的全面升级" | FACT | 同上（原文引述） | 同上 | 2026-03-05 | 2026-11-11 | 品牌营销案例 | 属厂商对外表述的转载 | BMC 收入 R$-4 |
 | E-468 | 小宇宙品牌营销呈常态化：SocialBeta 品牌页可见至少 5 个 campaign（乌镇戏剧节、上海国际电影节、暑假档、春季、劳动者主题等） | FACT | SocialBeta 小宇宙品牌动态列表 | https://socialbeta.com/brand/小宇宙 | 未标明 | 2026-11-11 | 页面可见条目 | 未逐条核对各 campaign 日期，不能断定全部发生在同一年；也不证明收入规模 | BMC 收入 R$-4 |
-| E-469 | Apple App Store 佣金：标准 30%；小企业计划（上一年 proceeds ≤100 万美元）为 15% | FACT | Apple Developer 官方页 | https://developer.apple.com/app-store/small-business-program/ | 未标明 | 2026-11-11 | 全球开发者规则 | 小宇宙适用哪档未公开，无法判断 | BMC 成本 C$-5 |
+| E-469 | Apple App Store 全球一般规则：标准佣金30%；小企业计划15%（上一年 proceeds ≤100万美元且满足计划条件） | FACT | Apple Developer 官方页 | https://developer.apple.com/app-store/small-business-program/ | 页面动态 | 2026-11-11 | 全球一般规则 | 中国大陆区 iOS/iPadOS storefront 自2026-03-15起适用专门附件，不能将此全球一般费率直接用于中国大陆区；小宇宙实际适用费率未知 | BMC 成本 C$-5（仅作全球规则背景） |
 | E-470 | 外部环境四类共 18 个子方向的课件原文名称：市场分类/需求和诉求/市场问题/切换成本/收入吸引力；供应商和价值链上的其他厂商/利益相关者/（现有）竞争对手/新进入者（挑战者）/替代产品和服务；技术趋势/行业管理趋势/社会和文化趋势/社会经济趋势；经济基础设施/大宗商品和其他资源/资本市场/全球市场情况 | FACT | 课程课件《4. 商业模式画布 - 理性端.pptx》第 16 页 | 本机课程资料目录（未入库） | 未标明 | 2026-11-12 | 课程课件 | 课件为教师整理，非教材原书扫描；"行业管理趋势"疑为"监管趋势"的译法差异 | 关键趋势 4 项、全组 18 项 |
 | E-471 | 作业要求：四部分选一深入；S&W 标在画布项**内**，O&T 放在项旁并用箭头指向画布项；其余三部分只做加分/减分，不要求按 SWOT 细化 | FACT | 课程作业 PDF《竞品选择&评估（2026.11）》 | 本机课程资料目录（未入库） | 未标明 | 2026-11-12 | 作业 PDF 第 1–2 页 | 原件未入库；引用时需注明来源为教师作业文件 | 收入与支出评估格式 |
 | E-472 | 作业要求：四个方面**每个子方向都要研讨**，尽量回答教材在每个子方向上列举的主要问题，弱相关可跳过 | FACT | 同上 | 同上 | 未标明 | 2026-11-12 | 作业 PDF 第 2 页 | 教材"主要问题"原文未随附 | `docs/EXTERNAL_ENVIRONMENT.md` |
@@ -247,6 +247,8 @@
 | E-123 | 截至2025年12月，中国网民规模达11.25亿人，互联网普及率80.1% | FACT | CNNIC第57次《中国互联网络发展状况统计报告》发布说明 | https://www.cnnic.ac.cn/n4/2026/0304/c88-11549.html | 2026-02-05 | 2026-11-16 | 全国网民；统计截至2025-12 | 互联网普及率为CNNIC国内统计口径，不与ITU国际可比序列混用 | 报告§5.4.1经济基础设施 |
 
 | E-124 | Apple Podcasts在Apple设备预装，提供全球节目目录、编辑推荐、个性化发现和创作者订阅工具 | FACT | Apple官方Apple Podcasts产品页 | https://www.apple.com/apple-podcasts/ | 页面动态 | 2026-11-16 | Apple设备和Apple Podcasts网页服务 | Apple产品自述；不代表中国大陆播客用户规模或市场份额 | 报告§5.2.3现有竞争对手 |
+
+| E-125 | 自2026-03-15起，中国大陆区 App Store iOS/iPadOS 标准佣金为25%；符合 App Store Small Business Program、Mini Apps Partner Program 或符合条件的续订情形时为12% | FACT | Apple Developer Program License Agreement，Attachment 13（China mainland） | https://developer.apple.com/cn/support/terms/apple-developer-program-license-agreement/ | 2026-03-15生效 | 2026-11-16 | 中国大陆区 App Store iOS/iPadOS storefront | 仅为公开协议费率；小宇宙是否符合优惠条件、实际订单渠道结构和结算基数未知 | BMC 成本、终稿 §3.9 |
 
 ## 3. 核验状态统计
 
