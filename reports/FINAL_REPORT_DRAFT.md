@@ -93,7 +93,7 @@
 
 这些能力不能混为一谈。时间戳、段落定位和网页快照对应不同媒介；“支持高亮”也不等于出处上下文完整。捕捉本身不是本组的独占创新，关键在于跨来源记录能否与个人理解和讨论连续衔接。
 
-**个人知识整理也不是空白领域。**flomo强调快速记录和标签回顾；Obsidian强调本地 Markdown 文件、双向链接和知识组织；Readwise Reader连接阅读、标注和回顾。已有成熟记录习惯的用户需要看到明显的工作流收益，才有迁移动机。U02的访谈说明，现有笔记工具可能已经足够。[27,28]
+**个人知识整理也不是空白领域。**flomo强调快速记录、标签、搜索和回顾；Obsidian以本地 Markdown 笔记和内部链接组织知识，其官方定价页将核心应用与 Sync、Publish 等付费服务区分；Readwise Reader连接阅读、标注和回顾。Cubox也提供网页剪藏、标注、搜索和导出能力。已有成熟记录习惯的用户需要看到明显的工作流收益，才有迁移动机。U02的访谈说明，现有笔记工具可能已经足够。[21-23,27,28]
 
 **讨论能力已经存在，但组织单位不同。**小宇宙围绕播客单集和音频时点；微信读书围绕书籍原句；豆瓣围绕作品和小组；即刻围绕动态与话题；微信群聊和线下交流适合熟人沟通。不能声称市场没有评论或讨论社区。[24,25,28,29]
 
@@ -443,9 +443,9 @@ IMF在2026年10月《世界经济展望》表1.1（按购买力平价权重）�
 18. 小宇宙 COO 关于品牌播客与追光平台的访谈，2024-11：https://www.xiaoyuzhoufm.com/episode/673df83d8d1233fb0dbf1eff
 19. Snipd 官方帮助中心，AI 支持语言：https://support.snipd.com/en/articles/10256622-which-languages-are-supported-by-snipd-s-ai
 20. Readwise Reader 官方更新日志，播客转录功能：https://readwise.io/reader/update-dec2025
-21. Cubox 官方定价页：https://cubox.pro/pricing/
-22. flomo 官方帮助中心，会员与存储：https://help.flomoapp.com/membership/pro.html
-23. Obsidian 官方定价页：https://obsidian.md/pricing
+21. Cubox 官方指南：《Cubox 是什么》及功能说明：https://help.cubox.pro/
+22. flomo 官方帮助中心，快速记录与回顾功能说明：https://help.flomoapp.com/
+23. Obsidian 官方定价页（核心应用、Sync 与 Publish 服务范围）：https://obsidian.md/pricing
 24. 豆瓣社区指导原则：https://www.douban.com/about/guideline
 25. 即刻 App Store 页面：https://apps.apple.com/cn/app/id966129812
 26. 团队真实访谈 U01—U08 与 AI 模拟访谈记录，见仓库 research/user-interviews/ 和 research/ai-simulations/；模拟材料不计入真实样本。
